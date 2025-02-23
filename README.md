@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm a dynamic front-end developer with a knack for turning creative ideas into stunning web experiences. With 6 years of expertise in JavaScript, HTML5, CSS3, and popular frameworks like Bootstrap and Tailwind CSS, I bring your digital dreams to life.
+I'm a dynamic front-end developer with a knack for turning creative ideas into stunning web experiences. With 7 years of expertise in JavaScript, HTML5, CSS3, and popular frameworks like Bootstrap and Tailwind CSS, I bring your digital dreams to life.
 
 ## Expertise & Strengths 💪
 
