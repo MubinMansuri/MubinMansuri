@@ -11,7 +11,7 @@
 
 ## 💡 Who I Am
 
-I’m a passionate WordPress developer and front-end engineer with 6+ years of professional experience crafting scalable, fast-loading, SEO-optimized websites for startups, agencies, and businesses around the world.
+I’m a passionate WordPress developer and front-end engineer with 7+ years of professional experience crafting scalable, fast-loading, SEO-optimized websites for startups, agencies, and businesses around the world.
 
 I specialize in custom themes, Gutenberg blocks, plugin development, and WooCommerce solutions—with a strong focus on performance tuning, accessibility (WCAG 2.1), and maintainable codebases.
 
