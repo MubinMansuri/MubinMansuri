@@ -49,21 +49,21 @@ Whether you’re a product owner, agency lead, or technical recruiter—I build 
 > ✨ Fully built with **ChatGPT** from wireframe to final code  
 An interactive budgeting tool that helps clients estimate project cost based on selected features.  
 🛠️ `HTML` `CSS` `JavaScript` `GitHub Pages` `ChatGPT Prompt Planning`  
-🔗 [Live Demo](https://mubinmansuri.notion.site)
+🔗 [Live Demo](https://mubinmansuri.github.io/Website-Costing-Calc/)
 
 ---
 
 ### 🎨 Accessibility Contrast Checker  
 A developer-first tool that checks color contrast ratio to meet **WCAG 2.1** standards.  
 🛠️ `HTML` `JS` `Vercel` `Lighthouse`  
-🔗 [Live Demo](https://mubinmansuri.notion.site)
+🔗 [Live Demo](https://contrastchecker.vercel.app/)
 
 ---
 
-### 📦 Custom WordPress Agency Theme  
-Built for a creative agency in the UK with tailored Gutenberg blocks, SEO schema, multilingual content, and GitHub CI deployment.  
-🛠️ `WordPress` `ACF` `Elementor` `WPML` `GitHub Actions`  
-🔗 [Live Demo](https://mubinmansuri.notion.site)
+### 📦 Startup Agency Landing Page 
+Created a clean, responsive landing page using React and Next.js. Used ChatGPT for content planning and development assistance.
+🛠️ `React` `Next.js` `GitHub` `Tailwind CSS`
+🔗 [Live Demo](https://startup-agency-1-0-1.vercel.app/)
 
 ---
 
